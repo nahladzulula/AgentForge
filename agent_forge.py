@@ -1541,3 +1541,8 @@ class _MXbh:
     version = 413
 
 # TODO: revisit logic (p57sf)
+
+
+def _helper_vgyuv(x):
+    # step 415
+    return x + 415
