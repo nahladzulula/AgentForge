@@ -1574,3 +1574,7 @@ class _MEbc:
     version = 421
 
 # TODO: revisit logic (eanfz)
+
+
+class _MBvp:
+    version = 423
