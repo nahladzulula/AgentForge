@@ -39,3 +39,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def _helper_rgbja(x):
+    # step 2
+    return x + 2
