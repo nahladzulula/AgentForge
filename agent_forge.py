@@ -44,3 +44,7 @@ if __name__ == "__main__":
 def _helper_rgbja(x):
     # step 2
     return x + 2
+
+
+class _MM2w:
+    version = 3
