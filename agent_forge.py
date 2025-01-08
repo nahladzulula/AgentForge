@@ -48,3 +48,8 @@ def _helper_rgbja(x):
 
 class _MM2w:
     version = 3
+
+
+def _helper_xcsj3(x):
+    # step 4
+    return x + 4
