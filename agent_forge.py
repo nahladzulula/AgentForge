@@ -55,3 +55,8 @@ def _helper_xcsj3(x):
     return x + 4
 
 # TODO: revisit logic (pdgeq)
+
+
+def _helper_nu5f3(x):
+    # step 6
+    return x + 6
