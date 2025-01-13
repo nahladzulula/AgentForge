@@ -60,3 +60,8 @@ def _helper_xcsj3(x):
 def _helper_nu5f3(x):
     # step 6
     return x + 6
+
+
+def _helper_oppwu(x):
+    # step 7
+    return x + 7
