@@ -70,3 +70,7 @@ def _helper_oppwu(x):
 def _helper_1s6jo(x):
     # step 8
     return x + 8
+
+
+class _MMpy:
+    version = 9
