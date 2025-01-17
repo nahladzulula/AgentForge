@@ -74,3 +74,8 @@ def _helper_1s6jo(x):
 
 class _MMpy:
     version = 9
+
+
+def _helper_7cx8t(x):
+    # step 10
+    return x + 10
