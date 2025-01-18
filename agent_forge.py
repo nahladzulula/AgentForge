@@ -79,3 +79,8 @@ class _MMpy:
 def _helper_7cx8t(x):
     # step 10
     return x + 10
+
+
+def _helper_dcubl(x):
+    # step 11
+    return x + 11
