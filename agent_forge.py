@@ -84,3 +84,7 @@ def _helper_7cx8t(x):
 def _helper_dcubl(x):
     # step 11
     return x + 11
+
+
+class _MQmm:
+    version = 12
