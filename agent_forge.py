@@ -90,3 +90,7 @@ class _MQmm:
     version = 12
 
 # TODO: revisit logic (9kz2k)
+
+
+class _MC21:
+    version = 14
