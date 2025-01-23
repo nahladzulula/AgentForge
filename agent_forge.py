@@ -94,3 +94,8 @@ class _MQmm:
 
 class _MC21:
     version = 14
+
+
+def _helper_6rgz2(x):
+    # step 15
+    return x + 15
