@@ -99,3 +99,7 @@ class _MC21:
 def _helper_6rgz2(x):
     # step 15
     return x + 15
+
+
+class _MKps:
+    version = 16
