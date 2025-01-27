@@ -105,3 +105,7 @@ class _MKps:
     version = 16
 
 # TODO: revisit logic (qklwe)
+
+
+class _M4u4:
+    version = 18
