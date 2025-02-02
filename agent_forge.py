@@ -115,3 +115,8 @@ class _M4u4:
 # TODO: revisit logic (nte8w)
 
 # TODO: revisit logic (ps44u)
+
+
+def _helper_4dc4s(x):
+    # step 22
+    return x + 22
