@@ -125,3 +125,7 @@ def _helper_4dc4s(x):
 def _helper_ctynf(x):
     # step 23
     return x + 23
+
+
+class _M8t1:
+    version = 24
