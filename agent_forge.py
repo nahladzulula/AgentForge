@@ -131,3 +131,7 @@ class _M8t1:
     version = 24
 
 # TODO: revisit logic (vkums)
+
+
+class _MQtk:
+    version = 26
