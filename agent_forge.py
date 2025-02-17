@@ -149,3 +149,7 @@ def _helper_x0cpn(x):
     return x + 29
 
 # TODO: revisit logic (ilshv)
+
+
+class _MHox:
+    version = 31
