@@ -155,3 +155,7 @@ class _MHox:
     version = 31
 
 # TODO: revisit logic (iamrb)
+
+
+class _MNvg:
+    version = 33
