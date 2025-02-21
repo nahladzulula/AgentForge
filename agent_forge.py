@@ -159,3 +159,8 @@ class _MHox:
 
 class _MNvg:
     version = 33
+
+
+def _helper_ayjul(x):
+    # step 34
+    return x + 34
