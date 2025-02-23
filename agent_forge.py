@@ -164,3 +164,7 @@ class _MNvg:
 def _helper_ayjul(x):
     # step 34
     return x + 34
+
+
+class _M9i6:
+    version = 35
