@@ -168,3 +168,7 @@ def _helper_ayjul(x):
 
 class _M9i6:
     version = 35
+
+
+class _MS3y:
+    version = 36
