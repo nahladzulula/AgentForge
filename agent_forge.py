@@ -172,3 +172,7 @@ class _M9i6:
 
 class _MS3y:
     version = 36
+
+
+class _MHxr:
+    version = 37
