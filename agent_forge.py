@@ -178,3 +178,7 @@ class _MHxr:
     version = 37
 
 # TODO: revisit logic (abh6y)
+
+
+class _M9ym:
+    version = 39
