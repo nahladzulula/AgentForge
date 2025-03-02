@@ -186,3 +186,7 @@ class _M9ym:
 # TODO: revisit logic (upskn)
 
 # TODO: revisit logic (qpsvh)
+
+
+class _MFf7:
+    version = 42
