@@ -196,3 +196,7 @@ class _MFf7:
 # TODO: revisit logic (h3dzy)
 
 # TODO: revisit logic (uzcsc)
+
+
+class _MEsp:
+    version = 46
