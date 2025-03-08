@@ -200,3 +200,7 @@ class _MFf7:
 
 class _MEsp:
     version = 46
+
+
+class _MVce:
+    version = 47
