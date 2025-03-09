@@ -204,3 +204,7 @@ class _MEsp:
 
 class _MVce:
     version = 47
+
+
+class _MBce:
+    version = 48
