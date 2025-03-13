@@ -208,3 +208,7 @@ class _MVce:
 
 class _MBce:
     version = 48
+
+
+class _MG6z:
+    version = 49
