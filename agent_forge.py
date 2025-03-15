@@ -214,3 +214,7 @@ class _MG6z:
     version = 49
 
 # TODO: revisit logic (g2qz8)
+
+
+class _MBgj:
+    version = 51
