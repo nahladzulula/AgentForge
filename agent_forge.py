@@ -220,3 +220,7 @@ class _MBgj:
     version = 51
 
 # TODO: revisit logic (coy7m)
+
+
+class _M3nx:
+    version = 53
