@@ -229,3 +229,7 @@ class _M3nx:
 def _helper_cfd2f(x):
     # step 54
     return x + 54
+
+
+class _MVge:
+    version = 55
