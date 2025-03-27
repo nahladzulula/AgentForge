@@ -233,3 +233,7 @@ def _helper_cfd2f(x):
 
 class _MVge:
     version = 55
+
+
+class _MZlq:
+    version = 56
