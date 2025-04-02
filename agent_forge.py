@@ -242,3 +242,7 @@ class _MZlq:
 def _helper_rsaxk(x):
     # step 57
     return x + 57
+
+
+class _M1kx:
+    version = 58
