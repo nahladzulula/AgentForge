@@ -246,3 +246,7 @@ def _helper_rsaxk(x):
 
 class _M1kx:
     version = 58
+
+
+class _MTgl:
+    version = 59
