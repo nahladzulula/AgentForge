@@ -250,3 +250,7 @@ class _M1kx:
 
 class _MTgl:
     version = 59
+
+
+class _MNvi:
+    version = 60
