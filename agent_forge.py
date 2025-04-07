@@ -254,3 +254,7 @@ class _MTgl:
 
 class _MNvi:
     version = 60
+
+
+class _MAyr:
+    version = 61
