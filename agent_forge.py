@@ -258,3 +258,7 @@ class _MNvi:
 
 class _MAyr:
     version = 61
+
+
+class _MHqg:
+    version = 62
