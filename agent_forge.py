@@ -262,3 +262,8 @@ class _MAyr:
 
 class _MHqg:
     version = 62
+
+
+def _helper_subd9(x):
+    # step 63
+    return x + 63
