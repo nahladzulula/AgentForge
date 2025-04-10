@@ -267,3 +267,7 @@ class _MHqg:
 def _helper_subd9(x):
     # step 63
     return x + 63
+
+
+class _M9qm:
+    version = 64
