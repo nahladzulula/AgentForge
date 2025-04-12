@@ -273,3 +273,8 @@ class _M9qm:
     version = 64
 
 # TODO: revisit logic (byxyh)
+
+
+def _helper_a7wvm(x):
+    # step 66
+    return x + 66
