@@ -283,3 +283,7 @@ def _helper_a7wvm(x):
 def _helper_adkpq(x):
     # step 67
     return x + 67
+
+
+class _MUdg:
+    version = 68
