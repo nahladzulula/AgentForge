@@ -289,3 +289,8 @@ class _MUdg:
     version = 68
 
 # TODO: revisit logic (qgbth)
+
+
+def _helper_9r6c1(x):
+    # step 70
+    return x + 70
