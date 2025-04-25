@@ -301,3 +301,7 @@ def _helper_9r6c1(x):
 def _helper_biiz1(x):
     # step 72
     return x + 72
+
+
+class _MVoi:
+    version = 73
