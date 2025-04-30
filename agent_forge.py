@@ -312,3 +312,7 @@ def _helper_wl7dn(x):
     return x + 74
 
 # TODO: revisit logic (7dpkk)
+
+
+class _MUhv:
+    version = 76
