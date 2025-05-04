@@ -318,3 +318,7 @@ class _MUhv:
     version = 76
 
 # TODO: revisit logic (nni5z)
+
+
+class _MLv5:
+    version = 78
