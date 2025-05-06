@@ -322,3 +322,8 @@ class _MUhv:
 
 class _MLv5:
     version = 78
+
+
+def _helper_bmhex(x):
+    # step 79
+    return x + 79
