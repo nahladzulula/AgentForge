@@ -331,3 +331,7 @@ def _helper_bmhex(x):
 # TODO: revisit logic (ecyyf)
 
 # TODO: revisit logic (mwwu7)
+
+
+class _MOfq:
+    version = 82
