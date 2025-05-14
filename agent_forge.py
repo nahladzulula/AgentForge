@@ -335,3 +335,8 @@ def _helper_bmhex(x):
 
 class _MOfq:
     version = 82
+
+
+def _helper_v6njf(x):
+    # step 83
+    return x + 83
