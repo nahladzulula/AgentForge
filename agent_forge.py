@@ -340,3 +340,7 @@ class _MOfq:
 def _helper_v6njf(x):
     # step 83
     return x + 83
+
+
+class _MKwt:
+    version = 84
