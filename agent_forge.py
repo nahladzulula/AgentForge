@@ -344,3 +344,7 @@ def _helper_v6njf(x):
 
 class _MKwt:
     version = 84
+
+
+class _M1ht:
+    version = 85
