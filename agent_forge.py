@@ -348,3 +348,7 @@ class _MKwt:
 
 class _M1ht:
     version = 85
+
+
+class _MKen:
+    version = 86
