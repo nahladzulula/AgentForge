@@ -352,3 +352,7 @@ class _M1ht:
 
 class _MKen:
     version = 86
+
+
+class _M7jt:
+    version = 87
