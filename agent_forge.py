@@ -368,3 +368,7 @@ class _MNrp:
 # TODO: revisit logic (v61ym)
 
 # TODO: revisit logic (ldmir)
+
+
+class _MIqs:
+    version = 93
