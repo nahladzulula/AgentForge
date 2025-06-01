@@ -372,3 +372,7 @@ class _MNrp:
 
 class _MIqs:
     version = 93
+
+
+class _MCj5:
+    version = 94
