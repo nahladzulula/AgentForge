@@ -376,3 +376,8 @@ class _MIqs:
 
 class _MCj5:
     version = 94
+
+
+def _helper_asxeh(x):
+    # step 95
+    return x + 95
