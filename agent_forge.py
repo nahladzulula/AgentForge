@@ -386,3 +386,7 @@ def _helper_asxeh(x):
 def _helper_msmzp(x):
     # step 96
     return x + 96
+
+
+class _MGoz:
+    version = 97
