@@ -390,3 +390,7 @@ def _helper_msmzp(x):
 
 class _MGoz:
     version = 97
+
+
+class _MUr0:
+    version = 98
