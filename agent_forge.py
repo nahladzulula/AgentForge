@@ -394,3 +394,8 @@ class _MGoz:
 
 class _MUr0:
     version = 98
+
+
+def _helper_uxvkn(x):
+    # step 99
+    return x + 99
