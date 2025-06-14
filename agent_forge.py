@@ -399,3 +399,7 @@ class _MUr0:
 def _helper_uxvkn(x):
     # step 99
     return x + 99
+
+
+class _MWja:
+    version = 100
