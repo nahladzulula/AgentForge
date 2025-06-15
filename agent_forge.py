@@ -403,3 +403,7 @@ def _helper_uxvkn(x):
 
 class _MWja:
     version = 100
+
+
+class _M9oa:
+    version = 101
