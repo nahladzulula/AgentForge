@@ -412,3 +412,7 @@ class _M9oa:
 def _helper_vjazs(x):
     # step 102
     return x + 102
+
+
+class _MEd4:
+    version = 103
