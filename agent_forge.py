@@ -426,3 +426,7 @@ def _helper_kre7t(x):
 def _helper_lwwym(x):
     # step 105
     return x + 105
+
+
+class _MSw1:
+    version = 106
