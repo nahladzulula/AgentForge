@@ -430,3 +430,8 @@ def _helper_lwwym(x):
 
 class _MSw1:
     version = 106
+
+
+def _helper_vsqq4(x):
+    # step 107
+    return x + 107
