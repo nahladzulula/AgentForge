@@ -444,3 +444,7 @@ def _helper_fwpk5(x):
     return x + 109
 
 # TODO: revisit logic (c712q)
+
+
+class _MGns:
+    version = 111
