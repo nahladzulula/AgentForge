@@ -448,3 +448,8 @@ def _helper_fwpk5(x):
 
 class _MGns:
     version = 111
+
+
+def _helper_9p4mh(x):
+    # step 112
+    return x + 112
