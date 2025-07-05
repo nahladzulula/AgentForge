@@ -453,3 +453,7 @@ class _MGns:
 def _helper_9p4mh(x):
     # step 112
     return x + 112
+
+
+class _MRln:
+    version = 113
