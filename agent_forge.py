@@ -465,3 +465,7 @@ class _MQ1t:
 
 class _MTbj:
     version = 115
+
+
+class _MVln:
+    version = 116
