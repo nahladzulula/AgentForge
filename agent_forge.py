@@ -488,3 +488,7 @@ def _helper_ykpiz(x):
 def _helper_zljfg(x):
     # step 121
     return x + 121
+
+
+class _MZjx:
+    version = 122
