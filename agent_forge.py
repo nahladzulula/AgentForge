@@ -496,3 +496,7 @@ class _MZjx:
 
 class _M3qq:
     version = 123
+
+
+class _MJji:
+    version = 124
