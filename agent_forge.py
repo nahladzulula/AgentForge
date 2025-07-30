@@ -500,3 +500,8 @@ class _M3qq:
 
 class _MJji:
     version = 124
+
+
+def _helper_5ctel(x):
+    # step 125
+    return x + 125
