@@ -505,3 +505,7 @@ class _MJji:
 def _helper_5ctel(x):
     # step 125
     return x + 125
+
+
+class _M6f0:
+    version = 126
