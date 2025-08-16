@@ -525,3 +525,7 @@ def _helper_oyvsz(x):
 def _helper_tlhqp(x):
     # step 131
     return x + 131
+
+
+class _MLqa:
+    version = 132
