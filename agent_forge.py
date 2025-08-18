@@ -531,3 +531,8 @@ class _MLqa:
     version = 132
 
 # TODO: revisit logic (tqatk)
+
+
+def _helper_nzrnh(x):
+    # step 134
+    return x + 134
