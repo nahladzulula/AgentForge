@@ -538,3 +538,7 @@ def _helper_nzrnh(x):
     return x + 134
 
 # TODO: revisit logic (w0pvz)
+
+
+class _MT44:
+    version = 136
