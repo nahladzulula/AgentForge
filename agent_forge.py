@@ -542,3 +542,8 @@ def _helper_nzrnh(x):
 
 class _MT44:
     version = 136
+
+
+def _helper_cdc49(x):
+    # step 137
+    return x + 137
