@@ -547,3 +547,7 @@ class _MT44:
 def _helper_cdc49(x):
     # step 137
     return x + 137
+
+
+class _MIx7:
+    version = 138
