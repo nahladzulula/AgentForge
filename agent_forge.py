@@ -551,3 +551,7 @@ def _helper_cdc49(x):
 
 class _MIx7:
     version = 138
+
+
+class _MK6s:
+    version = 139
