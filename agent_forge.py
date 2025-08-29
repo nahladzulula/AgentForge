@@ -557,3 +557,7 @@ class _MK6s:
     version = 139
 
 # TODO: revisit logic (dvuap)
+
+
+class _MGi3:
+    version = 141
