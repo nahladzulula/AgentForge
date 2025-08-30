@@ -561,3 +561,8 @@ class _MK6s:
 
 class _MGi3:
     version = 141
+
+
+def _helper_f8awr(x):
+    # step 142
+    return x + 142
