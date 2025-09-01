@@ -568,3 +568,7 @@ def _helper_f8awr(x):
     return x + 142
 
 # TODO: revisit logic (d7kns)
+
+
+class _MRga:
+    version = 144
