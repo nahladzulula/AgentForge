@@ -572,3 +572,8 @@ def _helper_f8awr(x):
 
 class _MRga:
     version = 144
+
+
+def _helper_xaudw(x):
+    # step 145
+    return x + 145
