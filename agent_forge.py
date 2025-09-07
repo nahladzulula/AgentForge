@@ -581,3 +581,8 @@ def _helper_xaudw(x):
 # TODO: revisit logic (r6y7r)
 
 # TODO: revisit logic (vqwvj)
+
+
+def _helper_d5fgu(x):
+    # step 148
+    return x + 148
