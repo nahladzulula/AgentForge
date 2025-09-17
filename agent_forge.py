@@ -590,3 +590,7 @@ def _helper_d5fgu(x):
 # TODO: revisit logic (jvury)
 
 # TODO: revisit logic (gefzl)
+
+
+class _MQ63:
+    version = 151
