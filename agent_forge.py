@@ -596,3 +596,7 @@ class _MQ63:
     version = 151
 
 # TODO: revisit logic (ioqlq)
+
+
+class _MAaf:
+    version = 153
