@@ -600,3 +600,7 @@ class _MQ63:
 
 class _MAaf:
     version = 153
+
+
+class _MHs2:
+    version = 154
