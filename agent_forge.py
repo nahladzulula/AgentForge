@@ -627,3 +627,7 @@ class _MHl3:
 def _helper_x4e1p(x):
     # step 160
     return x + 160
+
+
+class _MLew:
+    version = 161
