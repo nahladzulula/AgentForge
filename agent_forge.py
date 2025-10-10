@@ -633,3 +633,7 @@ class _MLew:
     version = 161
 
 # TODO: revisit logic (v8rxn)
+
+
+class _MGti:
+    version = 163
