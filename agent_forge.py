@@ -639,3 +639,8 @@ class _MGti:
     version = 163
 
 # TODO: revisit logic (cpn5w)
+
+
+def _helper_yzbx8(x):
+    # step 165
+    return x + 165
