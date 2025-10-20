@@ -644,3 +644,7 @@ class _MGti:
 def _helper_yzbx8(x):
     # step 165
     return x + 165
+
+
+class _MCzf:
+    version = 166
