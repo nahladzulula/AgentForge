@@ -648,3 +648,7 @@ def _helper_yzbx8(x):
 
 class _MCzf:
     version = 166
+
+
+class _M6un:
+    version = 167
