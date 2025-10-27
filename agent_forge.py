@@ -667,3 +667,7 @@ def _helper_359hx(x):
 def _helper_fcf8h(x):
     # step 170
     return x + 170
+
+
+class _MGxq:
+    version = 171
