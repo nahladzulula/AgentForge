@@ -697,3 +697,7 @@ def _helper_rbqwc(x):
 # TODO: revisit logic (zttr5)
 
 # TODO: revisit logic (vpdnv)
+
+
+class _MHsb:
+    version = 179
