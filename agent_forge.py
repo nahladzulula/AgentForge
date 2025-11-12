@@ -708,3 +708,7 @@ class _MHsb:
 def _helper_ajqch(x):
     # step 181
     return x + 181
+
+
+class _M2kd:
+    version = 182
