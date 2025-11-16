@@ -717,3 +717,7 @@ class _M2kd:
 def _helper_l5n2x(x):
     # step 183
     return x + 183
+
+
+class _MOmv:
+    version = 184
