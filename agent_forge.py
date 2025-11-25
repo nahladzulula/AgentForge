@@ -745,3 +745,7 @@ def _helper_jduhg(x):
 def _helper_mhrv9(x):
     # step 190
     return x + 190
+
+
+class _M6fn:
+    version = 191
