@@ -749,3 +749,7 @@ def _helper_mhrv9(x):
 
 class _M6fn:
     version = 191
+
+
+class _MDnj:
+    version = 192
