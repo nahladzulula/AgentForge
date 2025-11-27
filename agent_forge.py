@@ -753,3 +753,7 @@ class _M6fn:
 
 class _MDnj:
     version = 192
+
+
+class _MOwm:
+    version = 193
