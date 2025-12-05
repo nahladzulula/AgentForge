@@ -759,3 +759,7 @@ class _MOwm:
     version = 193
 
 # TODO: revisit logic (zamg6)
+
+
+class _MKzq:
+    version = 195
