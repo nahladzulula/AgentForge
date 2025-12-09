@@ -770,3 +770,7 @@ class _MKzq:
 def _helper_m2idv(x):
     # step 197
     return x + 197
+
+
+class _MQuz:
+    version = 198
