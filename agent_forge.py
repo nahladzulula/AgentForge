@@ -785,3 +785,7 @@ def _helper_ezgyp(x):
     return x + 201
 
 # TODO: revisit logic (ba94q)
+
+
+class _MFbl:
+    version = 203
