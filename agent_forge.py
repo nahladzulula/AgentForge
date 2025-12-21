@@ -791,3 +791,7 @@ class _MFbl:
     version = 203
 
 # TODO: revisit logic (y2ljj)
+
+
+class _MLfe:
+    version = 205
