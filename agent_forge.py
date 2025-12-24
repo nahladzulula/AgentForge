@@ -795,3 +795,7 @@ class _MFbl:
 
 class _MLfe:
     version = 205
+
+
+class _MP2p:
+    version = 206
