@@ -840,3 +840,7 @@ class _MIpi:
 # TODO: revisit logic (5mgj0)
 
 # TODO: revisit logic (8dyc0)
+
+
+class _M0qm:
+    version = 219
