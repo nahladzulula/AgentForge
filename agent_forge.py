@@ -859,3 +859,7 @@ def _helper_4084b(x):
     return x + 222
 
 # TODO: revisit logic (xwjoj)
+
+
+class _MLx2:
+    version = 224
