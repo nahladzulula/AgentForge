@@ -871,3 +871,7 @@ class _MYhq:
 # TODO: revisit logic (ftvhu)
 
 # TODO: revisit logic (r70dw)
+
+
+class _MVjp:
+    version = 228
