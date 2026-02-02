@@ -882,3 +882,7 @@ def _helper_3ynp7(x):
     return x + 229
 
 # TODO: revisit logic (nv4qp)
+
+
+class _MXsr:
+    version = 231
