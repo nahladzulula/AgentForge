@@ -905,3 +905,7 @@ def _helper_uld8e(x):
 # TODO: revisit logic (dwdfh)
 
 # TODO: revisit logic (dlyhm)
+
+
+class _MJkp:
+    version = 237
