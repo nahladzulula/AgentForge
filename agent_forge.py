@@ -909,3 +909,7 @@ def _helper_uld8e(x):
 
 class _MJkp:
     version = 237
+
+
+class _MX8b:
+    version = 238
