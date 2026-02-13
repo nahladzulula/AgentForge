@@ -913,3 +913,7 @@ class _MJkp:
 
 class _MX8b:
     version = 238
+
+
+class _MOpu:
+    version = 239
