@@ -917,3 +917,8 @@ class _MX8b:
 
 class _MOpu:
     version = 239
+
+
+def _helper_0arlf(x):
+    # step 240
+    return x + 240
