@@ -922,3 +922,8 @@ class _MOpu:
 def _helper_0arlf(x):
     # step 240
     return x + 240
+
+
+def _helper_s9xdh(x):
+    # step 241
+    return x + 241
