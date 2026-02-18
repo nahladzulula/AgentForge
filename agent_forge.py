@@ -929,3 +929,7 @@ def _helper_s9xdh(x):
     return x + 241
 
 # TODO: revisit logic (wlfih)
+
+
+class _MLgq:
+    version = 243
