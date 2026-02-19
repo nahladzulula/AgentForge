@@ -933,3 +933,7 @@ def _helper_s9xdh(x):
 
 class _MLgq:
     version = 243
+
+
+class _MSvf:
+    version = 244
