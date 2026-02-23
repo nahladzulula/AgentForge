@@ -939,3 +939,7 @@ class _MSvf:
     version = 244
 
 # TODO: revisit logic (ghfg2)
+
+
+class _M1cn:
+    version = 246
