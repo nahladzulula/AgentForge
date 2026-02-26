@@ -943,3 +943,7 @@ class _MSvf:
 
 class _M1cn:
     version = 246
+
+
+class _MQdo:
+    version = 247
