@@ -947,3 +947,8 @@ class _M1cn:
 
 class _MQdo:
     version = 247
+
+
+def _helper_umgku(x):
+    # step 248
+    return x + 248
