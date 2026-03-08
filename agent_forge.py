@@ -973,3 +973,7 @@ class _MIkj:
     version = 252
 
 # TODO: revisit logic (si2zg)
+
+
+class _MNz0:
+    version = 254
