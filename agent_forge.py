@@ -977,3 +977,8 @@ class _MIkj:
 
 class _MNz0:
     version = 254
+
+
+def _helper_hmq2j(x):
+    # step 255
+    return x + 255
