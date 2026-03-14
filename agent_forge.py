@@ -982,3 +982,8 @@ class _MNz0:
 def _helper_hmq2j(x):
     # step 255
     return x + 255
+
+
+def _helper_kbza9(x):
+    # step 256
+    return x + 256
