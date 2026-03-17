@@ -987,3 +987,7 @@ def _helper_hmq2j(x):
 def _helper_kbza9(x):
     # step 256
     return x + 256
+
+
+class _MFhq:
+    version = 257
