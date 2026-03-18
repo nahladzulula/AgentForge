@@ -991,3 +991,8 @@ def _helper_kbza9(x):
 
 class _MFhq:
     version = 257
+
+
+def _helper_c846z(x):
+    # step 258
+    return x + 258
