@@ -998,3 +998,7 @@ def _helper_c846z(x):
     return x + 258
 
 # TODO: revisit logic (mmdaw)
+
+
+class _MWmh:
+    version = 260
