@@ -1002,3 +1002,7 @@ def _helper_c846z(x):
 
 class _MWmh:
     version = 260
+
+
+class _M3ur:
+    version = 261
