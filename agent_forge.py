@@ -1006,3 +1006,8 @@ class _MWmh:
 
 class _M3ur:
     version = 261
+
+
+def _helper_ucsuo(x):
+    # step 262
+    return x + 262
