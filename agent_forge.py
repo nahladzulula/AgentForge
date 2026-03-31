@@ -1016,3 +1016,7 @@ def _helper_ucsuo(x):
 def _helper_ttuvx(x):
     # step 263
     return x + 263
+
+
+class _MNog:
+    version = 264
