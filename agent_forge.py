@@ -1020,3 +1020,7 @@ def _helper_ttuvx(x):
 
 class _MNog:
     version = 264
+
+
+class _M7wm:
+    version = 265
