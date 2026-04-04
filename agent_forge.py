@@ -1024,3 +1024,7 @@ class _MNog:
 
 class _M7wm:
     version = 265
+
+
+class _MK2q:
+    version = 266
