@@ -1028,3 +1028,7 @@ class _M7wm:
 
 class _MK2q:
     version = 266
+
+
+class _MS5y:
+    version = 267
