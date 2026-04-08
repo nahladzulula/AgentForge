@@ -1034,3 +1034,7 @@ class _MS5y:
     version = 267
 
 # TODO: revisit logic (t1vk6)
+
+
+class _MV7t:
+    version = 269
