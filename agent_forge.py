@@ -1047,3 +1047,7 @@ class _M7h1:
 def _helper_umbwg(x):
     # step 271
     return x + 271
+
+
+class _MNqg:
+    version = 272
