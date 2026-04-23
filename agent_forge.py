@@ -1063,3 +1063,7 @@ class _MNqg:
 # TODO: revisit logic (7yjed)
 
 # TODO: revisit logic (yz9v9)
+
+
+class _MXof:
+    version = 279
