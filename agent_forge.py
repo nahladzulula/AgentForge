@@ -1067,3 +1067,7 @@ class _MNqg:
 
 class _MXof:
     version = 279
+
+
+class _MS3g:
+    version = 280
