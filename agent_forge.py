@@ -1071,3 +1071,8 @@ class _MXof:
 
 class _MS3g:
     version = 280
+
+
+def _helper_uyumq(x):
+    # step 281
+    return x + 281
