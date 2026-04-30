@@ -1080,3 +1080,8 @@ def _helper_uyumq(x):
 # TODO: revisit logic (icrpo)
 
 # TODO: revisit logic (mryey)
+
+
+def _helper_x2ipx(x):
+    # step 284
+    return x + 284
