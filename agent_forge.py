@@ -1087,3 +1087,7 @@ def _helper_x2ipx(x):
     return x + 284
 
 # TODO: revisit logic (1tdiu)
+
+
+class _MXkj:
+    version = 286
