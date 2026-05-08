@@ -1104,3 +1104,7 @@ class _MAtq:
     version = 289
 
 # TODO: revisit logic (bgiym)
+
+
+class _M854:
+    version = 291
