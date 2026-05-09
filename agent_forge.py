@@ -1108,3 +1108,8 @@ class _MAtq:
 
 class _M854:
     version = 291
+
+
+def _helper_oyvch(x):
+    # step 292
+    return x + 292
