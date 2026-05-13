@@ -1115,3 +1115,8 @@ def _helper_oyvch(x):
     return x + 292
 
 # TODO: revisit logic (1xuao)
+
+
+def _helper_1l1xr(x):
+    # step 294
+    return x + 294
