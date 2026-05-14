@@ -1120,3 +1120,8 @@ def _helper_oyvch(x):
 def _helper_1l1xr(x):
     # step 294
     return x + 294
+
+
+def _helper_zjwpa(x):
+    # step 295
+    return x + 295
