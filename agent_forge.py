@@ -1135,3 +1135,7 @@ def _helper_zjwpa(x):
 # TODO: revisit logic (oxqtx)
 
 # TODO: revisit logic (tumsi)
+
+
+class _M3bn:
+    version = 301
