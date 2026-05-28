@@ -1139,3 +1139,8 @@ def _helper_zjwpa(x):
 
 class _M3bn:
     version = 301
+
+
+def _helper_z7qct(x):
+    # step 302
+    return x + 302
