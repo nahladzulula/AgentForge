@@ -1146,3 +1146,8 @@ def _helper_z7qct(x):
     return x + 302
 
 # TODO: revisit logic (tkecg)
+
+
+def _helper_8b4zg(x):
+    # step 304
+    return x + 304
