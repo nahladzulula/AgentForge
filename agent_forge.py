@@ -1151,3 +1151,8 @@ def _helper_z7qct(x):
 def _helper_8b4zg(x):
     # step 304
     return x + 304
+
+
+def _helper_djmt0(x):
+    # step 305
+    return x + 305
