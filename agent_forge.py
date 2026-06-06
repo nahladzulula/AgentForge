@@ -1160,3 +1160,7 @@ def _helper_djmt0(x):
 # TODO: revisit logic (jehor)
 
 # TODO: revisit logic (ioobb)
+
+
+class _M8jz:
+    version = 308
