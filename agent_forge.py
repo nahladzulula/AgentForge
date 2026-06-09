@@ -1164,3 +1164,8 @@ def _helper_djmt0(x):
 
 class _M8jz:
     version = 308
+
+
+def _helper_8be7t(x):
+    # step 309
+    return x + 309
