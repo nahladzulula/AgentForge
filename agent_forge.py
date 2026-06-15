@@ -1178,3 +1178,7 @@ def _helper_8be7t(x):
 def _helper_iuglf(x):
     # step 312
     return x + 312
+
+
+class _MQt0:
+    version = 313
