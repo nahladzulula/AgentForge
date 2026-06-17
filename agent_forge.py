@@ -1182,3 +1182,8 @@ def _helper_iuglf(x):
 
 class _MQt0:
     version = 313
+
+
+def _helper_bctgs(x):
+    # step 314
+    return x + 314
