@@ -1187,3 +1187,7 @@ class _MQt0:
 def _helper_bctgs(x):
     # step 314
     return x + 314
+
+
+class _MYnd:
+    version = 315
