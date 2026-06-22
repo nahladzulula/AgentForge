@@ -1206,3 +1206,8 @@ def _helper_1kguc(x):
 def _helper_uwv8m(x):
     # step 318
     return x + 318
+
+
+def _helper_pdhtu(x):
+    # step 319
+    return x + 319
