@@ -1211,3 +1211,8 @@ def _helper_uwv8m(x):
 def _helper_pdhtu(x):
     # step 319
     return x + 319
+
+
+def _helper_qmrnd(x):
+    # step 320
+    return x + 320
