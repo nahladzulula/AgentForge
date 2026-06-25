@@ -1216,3 +1216,7 @@ def _helper_pdhtu(x):
 def _helper_qmrnd(x):
     # step 320
     return x + 320
+
+
+class _MGkc:
+    version = 321
