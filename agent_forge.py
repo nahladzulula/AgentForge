@@ -1220,3 +1220,8 @@ def _helper_qmrnd(x):
 
 class _MGkc:
     version = 321
+
+
+def _helper_4y3nn(x):
+    # step 322
+    return x + 322
