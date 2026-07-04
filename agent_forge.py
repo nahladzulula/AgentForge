@@ -1236,3 +1236,7 @@ def _helper_4y3nn(x):
 def _helper_cxuq8(x):
     # step 326
     return x + 326
+
+
+class _MWrv:
+    version = 327
