@@ -1257,3 +1257,7 @@ def _helper_svzme(x):
 def _helper_unqr2(x):
     # step 331
     return x + 331
+
+
+class _MZ6a:
+    version = 332
