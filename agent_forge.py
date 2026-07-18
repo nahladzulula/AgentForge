@@ -1267,3 +1267,7 @@ class _MZ6a:
 # TODO: revisit logic (r5lwf)
 
 # TODO: revisit logic (qeohe)
+
+
+class _MRde:
+    version = 336
