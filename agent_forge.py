@@ -1271,3 +1271,8 @@ class _MZ6a:
 
 class _MRde:
     version = 336
+
+
+def _helper_u4yct(x):
+    # step 337
+    return x + 337
