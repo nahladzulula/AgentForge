@@ -1317,3 +1317,8 @@ def _helper_2fupg(x):
 def _helper_vgftu(x):
     # step 350
     return x + 350
+
+
+def _helper_kutfd(x):
+    # step 351
+    return x + 351
