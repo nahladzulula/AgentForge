@@ -1334,3 +1334,7 @@ def _helper_rxavz(x):
 def _helper_yb4v3(x):
     # step 354
     return x + 354
+
+
+class _M08v:
+    version = 355
