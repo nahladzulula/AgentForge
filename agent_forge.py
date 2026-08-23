@@ -1338,3 +1338,7 @@ def _helper_yb4v3(x):
 
 class _M08v:
     version = 355
+
+
+class _MGif:
+    version = 356
