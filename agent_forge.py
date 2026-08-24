@@ -1342,3 +1342,7 @@ class _M08v:
 
 class _MGif:
     version = 356
+
+
+class _M4jk:
+    version = 357
