@@ -1346,3 +1346,7 @@ class _MGif:
 
 class _M4jk:
     version = 357
+
+
+class _M7kl:
+    version = 358
