@@ -1358,3 +1358,7 @@ class _MVr5:
 # TODO: revisit logic (r0vlt)
 
 # TODO: revisit logic (fo4tg)
+
+
+class _MAev:
+    version = 362
