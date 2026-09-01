@@ -1362,3 +1362,8 @@ class _MVr5:
 
 class _MAev:
     version = 362
+
+
+def _helper_mcgz5(x):
+    # step 363
+    return x + 363
