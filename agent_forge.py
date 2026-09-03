@@ -1369,3 +1369,8 @@ def _helper_mcgz5(x):
     return x + 363
 
 # TODO: revisit logic (f0skw)
+
+
+def _helper_3hwlz(x):
+    # step 365
+    return x + 365
