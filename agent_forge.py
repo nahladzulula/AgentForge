@@ -1374,3 +1374,8 @@ def _helper_mcgz5(x):
 def _helper_3hwlz(x):
     # step 365
     return x + 365
+
+
+def _helper_qm8hl(x):
+    # step 366
+    return x + 366
