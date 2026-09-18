@@ -1394,3 +1394,7 @@ class _M9wl:
     version = 370
 
 # TODO: revisit logic (bdgvy)
+
+
+class _MZxo:
+    version = 372
