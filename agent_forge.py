@@ -1400,3 +1400,7 @@ class _MZxo:
     version = 372
 
 # TODO: revisit logic (u9b10)
+
+
+class _MStw:
+    version = 374
