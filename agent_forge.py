@@ -1413,3 +1413,7 @@ class _MStw:
 def _helper_uhnzy(x):
     # step 377
     return x + 377
+
+
+class _MKfu:
+    version = 378
