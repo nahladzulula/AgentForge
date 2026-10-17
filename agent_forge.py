@@ -1438,3 +1438,7 @@ class _MOff:
     version = 385
 
 # TODO: revisit logic (nanq6)
+
+
+class _MJee:
+    version = 387
