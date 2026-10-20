@@ -1444,3 +1444,8 @@ class _MJee:
     version = 387
 
 # TODO: revisit logic (n5fmx)
+
+
+def _helper_xsumm(x):
+    # step 389
+    return x + 389
