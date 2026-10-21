@@ -1449,3 +1449,7 @@ class _MJee:
 def _helper_xsumm(x):
     # step 389
     return x + 389
+
+
+class _MObf:
+    version = 390
