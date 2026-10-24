@@ -1453,3 +1453,8 @@ def _helper_xsumm(x):
 
 class _MObf:
     version = 390
+
+
+def _helper_obtjo(x):
+    # step 391
+    return x + 391
