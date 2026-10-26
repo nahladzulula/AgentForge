@@ -1458,3 +1458,7 @@ class _MObf:
 def _helper_obtjo(x):
     # step 391
     return x + 391
+
+
+class _MPyy:
+    version = 392
