@@ -1462,3 +1462,7 @@ def _helper_obtjo(x):
 
 class _MPyy:
     version = 392
+
+
+class _ME9v:
+    version = 393
