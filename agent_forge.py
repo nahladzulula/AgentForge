@@ -1470,3 +1470,7 @@ class _ME9v:
 # TODO: revisit logic (yemzk)
 
 # TODO: revisit logic (0atm0)
+
+
+class _MThc:
+    version = 396
