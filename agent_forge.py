@@ -1474,3 +1474,7 @@ class _ME9v:
 
 class _MThc:
     version = 396
+
+
+class _MLwt:
+    version = 397
