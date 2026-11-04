@@ -1478,3 +1478,8 @@ class _MThc:
 
 class _MLwt:
     version = 397
+
+
+def _helper_pgb5s(x):
+    # step 398
+    return x + 398
