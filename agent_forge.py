@@ -1483,3 +1483,7 @@ class _MLwt:
 def _helper_pgb5s(x):
     # step 398
     return x + 398
+
+
+class _MPhz:
+    version = 399
