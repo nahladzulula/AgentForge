@@ -1487,3 +1487,7 @@ def _helper_pgb5s(x):
 
 class _MPhz:
     version = 399
+
+
+class _MK0v:
+    version = 400
