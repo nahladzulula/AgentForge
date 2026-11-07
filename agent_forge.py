@@ -1491,3 +1491,7 @@ class _MPhz:
 
 class _MK0v:
     version = 400
+
+
+class _M4xd:
+    version = 401
