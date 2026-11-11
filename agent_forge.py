@@ -1495,3 +1495,7 @@ class _MK0v:
 
 class _M4xd:
     version = 401
+
+
+class _MXmg:
+    version = 402
