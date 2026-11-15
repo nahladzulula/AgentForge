@@ -1499,3 +1499,8 @@ class _M4xd:
 
 class _MXmg:
     version = 402
+
+
+def _helper_78xsr(x):
+    # step 403
+    return x + 403
