@@ -1525,3 +1525,7 @@ def _helper_prb4v(x):
 def _helper_0t2w7(x):
     # step 409
     return x + 409
+
+
+class _M7xm:
+    version = 410
