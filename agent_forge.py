@@ -1531,3 +1531,7 @@ class _M7xm:
     version = 410
 
 # TODO: revisit logic (4vkj0)
+
+
+class _MGry:
+    version = 412
